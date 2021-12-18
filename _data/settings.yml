@@ -16,10 +16,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/lisha1992'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=PrgZtw4AAAAJ&hl'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/sha-l-248404100/'}
 
 contacts:
 - {name: 'Sha Li', title: '<a href="https://litinghu.github.io/"> Experimental and Virtualized Systems (ELVES) Lab </a>' , department: '<a href="https://cs.vt.edu/"> Department of Computer Science</a>', institution: '<a href="https://vt.edu/">Virginia Tech</a>', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'csshali.ls@gmail.com', office: 'Science Building 505', image: 'assets/img/hokie.jpg'}
