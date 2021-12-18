@@ -1,10 +1,11 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Y Jiao, **S Li**, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE, 2021.'}
+- {name: 'MPC Mok, CH Chan, WCS Chow, Y Jiao, **S Li**, P Luo, YK Li, M Ieong. "Chiplet-based System-on-Chip for Edge Artificial Intelligence." *2021 5th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)*. IEEE, 2021.'}
+- {name: 'Y Jiao, X Huo, Y Lei, **S Li**, YK Li. "Weight Compression-Friendly Binarized Neural Network." *2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)*. IEEE, 2020.'}
+- {name: 'S Zhang, SMH Bamakan, Q Qu, **S Li**. (2018). Learning for personalized medicine: a comprehensive review from a deep learning perspective. *IEEE reviews in biomedical engineering*, 12, 194-208.'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'Y Jiao, **S Li**, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." *2021 International Joint Conference on Neural Networks (IJCNN)*. IEEE, 2021.'}
+- {name: 'MPC Mok, CH Chan, WCS Chow, Y Jiao, **S Li**, P Luo, YK Li, M Ieong. "Chiplet-based System-on-Chip for Edge Artificial Intelligence." *2021 5th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)*. IEEE, 2021.'}
+- {name: 'Y Jiao, X Huo, Y Lei, **S Li**, YK Li. "Weight Compression-Friendly Binarized Neural Network." *2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)*. IEEE, 2020.'}
+- {name: 'S Zhang, SMH Bamakan, Q Qu, **S Li**. (2018). Learning for personalized medicine: a comprehensive review from a deep learning perspective. *IEEE reviews in biomedical engineering*, 12, 194-208.'}
