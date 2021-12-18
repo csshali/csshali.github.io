@@ -2,3 +2,4 @@ url: https://csshali.github.io  # the base hostname & protocol for your site, e.
 baseurl: # the subpath of your site, e.g. /blog
 title: "Sha LI" # the name of your site, e.g. ACME Corp.
 description: "Ph. D in Computer Science @ Virginia Tech"
+icon: 🐒
