@@ -24,4 +24,4 @@ contacts:
 - {name: 'Sha Li', title: 'Ph.D. student in Computer Science </br>', 
   department: '<a href="https://litinghu.github.io/"> Experimental and Virtualized Systems (ELVES) Lab </a></br>
   <a href="https://cs.vt.edu/"> Department of Computer Science</a> </br>', 
-  institution: '<a href="https://vt.edu/">Virginia Tech</a></br>', institution_address: 'Blacksburg, VA 24060', phone: '(852) 9565-1959', email: 'csshali.ls@gmail.com', office: 'Will update later', image: 'assets/img/hokie.jpg'}
+  institution: '<a href="https://vt.edu/">Virginia Polytechnic Institute and State University</a></br>', institution_address: 'Blacksburg, VA 24060', phone: '(852) 9565-1959', email: 'csshali.ls@gmail.com', office: 'Will update later', image: 'assets/img/hokie.jpg'}
