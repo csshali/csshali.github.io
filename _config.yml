@@ -1,4 +1,4 @@
-#url: https://csshali.github.io  # the base hostname & protocol for your site, e.g. http://example.com
+url: https://csshali.github.io  # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: "Sha LI" # the name of your site, e.g. ACME Corp.
-description: "Ph. D in Computer Science @ Virginia Tech"
+description: "Ph. D Student in Computer Science @ Virginia Tech"
