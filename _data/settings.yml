@@ -16,12 +16,12 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/lisha1992'}
+- {icon: 'github', link: 'https://github.com/csshali'}
 - {icon: 'scholar', link: 'https://scholar.google.com/citations?user=PrgZtw4AAAAJ&hl'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/sha-l-248404100/'}
 
 contacts:
 - {name: 'Sha Li', title: 'Ph.D. student in Computer Science </br>', 
-  department: '<a href="https://litinghu.github.io/"> Experimental and Virtualized Systems (ELVES) Lab </a></br>
-  <a href="https://cs.vt.edu/"> Department of Computer Science</a> </br>', 
-  institution: '<a href="https://vt.edu/">Virginia Polytechnic Institute and State University</a></br>', institution_address: 'Blacksburg, VA 24060', phone: '(+1) 540-204-2328', email: 'csshali.ls@gmail.com', office: 'Will update later', image: 'assets/img/hokie.jpg'}
+  department: 'Experimental and Virtualized Systems (ELVES) Lab </br>
+  Department of Computer Science</br>', 
+  institution: 'Virginia Polytechnic Institute and State University</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+1) 540-204-2328', email: 'csshali.ls@gmail.com', office: '2202 Kraft Dr., Blacksburg, VA', image: 'assets/img/hokie.jpg'}
