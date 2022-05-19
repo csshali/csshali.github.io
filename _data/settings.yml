@@ -22,6 +22,5 @@ social:
 
 contacts:
 - {name: 'Sha Li', title: 'Ph.D. student in Computer Science </br>', 
-  department: 'Experimental and Virtualized Systems (ELVES) Lab </br>
-  Department of Computer Science</br>', 
-  institution: 'Virginia Polytechnic Institute and State University</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+1) 540-204-2328', email: 'csshali.ls@gmail.com', office: '2202 Kraft Dr., Blacksburg, VA', image: 'assets/img/hokie.jpg'}
+  department: 'Department of Computer Science</br>', 
+  institution: 'Virginia Polytechnic Institute and State University</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+1) 540-***-2328', email: 'csshali.ls@gmail.com', office: '2202 Kraft Dr., Blacksburg, VA', image: 'assets/img/hokie.jpg'}
