@@ -1,5 +1,4 @@
 featured:
-- {name: 'KC Choi, <b>Sha Li</b>, et al.. "Genetic Algorithm For Tourism Route Planning Considering Time Constrains." <i>International Journal of Engineering Trends and Technology</i>. 70 (2022): 171-179.'}
 - {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. pp. 105-111. IEEE, 2021.'}
 - {name: '<b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
 - {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021.'}
@@ -9,7 +8,6 @@ featured:
 
 
 index:
-- {name: 'KC Choi, <b>Sha Li</b>, et al.. "Genetic Algorithm For Tourism Route Planning Considering Time Constrains." <i>International Journal of Engineering Trends and Technology</i>. 70 (2022): 171-179.'}
 - {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. pp. 105-111. IEEE, 2021.'}
 - {name: '<b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
 - {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021.'}
