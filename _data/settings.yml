@@ -20,7 +20,7 @@ social:
 - {icon: 'scholar', link: 'https://scholar.google.com/citations?user=PrgZtw4AAAAJ&hl'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/sha-l-248404100/'}
 
-#contacts:
-#- {name: 'Sha Li', title: 'Ph.D. student in Computer Science </br>', 
- # department: 'Department of Computer Science</br>', 
- # institution: 'Virginia Tech</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+1) 540-***-2328', email: 'csshali.ls@gmail.com', office: '2202 Kraft Dr., Blacksburg, VA', image: 'assets/img/hokie.jpg'}
+contacts:
+- {name: 'Sha Li', title: 'Ph.D. student in Computer Science </br>', 
+  department: 'Department of Computer Science</br>', 
+  institution: 'Virginia Tech</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+852) 9565 1959', email: 'csshali.ls@gmail.com', office: '3160 Torgersen Hall, Blacksburg, VA', image: 'assets/img/hokie.jpg'}
