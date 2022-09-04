@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am a Ph.D student in the <a href="https://cs.vt.edu/"> Department of Computer Science</a> at <a href="https://vt.edu/">Virginia Tech</a>. 
+I am a Ph.D student in the <a href="https://cs.vt.edu/"> Department of Computer Science</a> at <a href="https://vt.edu/">Virginia Tech</a>. My advisor is  <a href="https://people.cs.vt.edu/naren/"> Prof. Naren Ramakrishnan</a>.
 
 
 My research interests lie broadly in the span of machine learning, deep learning and data mining. 
