@@ -23,4 +23,4 @@ social:
 contacts:
 - {name: 'Sha Li', title: 'Ph.D. student in Computer Science </br>', 
   #department: 'Department of Computer Science</br>', 
-  institution: 'Virginia Tech</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+852) 9565 1959', email: 'shal@vt.edu', office: '3160 Torgersen Hall, Blacksburg, VA', image: 'assets/img/hokie.jpg'}
+  institution: 'Virginia Tech</br>', institution_address: 'Blacksburg, VA 24060', phone: '(+852) 9565 1959', email: 'shal@vt.edu', office: '219 Kelly Hall, 325 Stanger St., Blacksburg, VA', image: 'assets/img/hokie.jpg'}
