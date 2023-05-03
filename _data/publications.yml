@@ -1,16 +1,16 @@
 featured:
-- {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. pp. 105-111. IEEE, 2021.'}
+- {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2021.'}
 - {name: '<b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
 - {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021.'}
 - {name: 'MPC Mok, CH Chan, WCS Chow, Y Jiao, <b>S Li</b>, P Luo, YK Li, M Ieong. "Chiplet-based System-on-Chip for Edge Artificial Intelligence." <i>2021 5th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)</i>. IEEE, 2021.'}
 - {name: 'Y Jiao, X Huo, Y Lei, <b>S Li</b>, YK Li. "Weight Compression-Friendly Binarized Neural Network." <i>2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2020.'}
-- {name: 'S Zhang, SMH Bamakan, Q Qu, <b>S Li</b>. (2018). Learning for personalized medicine: a comprehensive review from a deep learning perspective. <i>IEEE reviews in biomedical engineering</i>, 12, 194-208.'}
+- {name: 'S Zhang, SMH Bamakan, Q Qu, <b>S Li</b>. (2018). Learning for personalized medicine: a comprehensive review from a deep learning perspective. <i>IEEE reviews in biomedical engineering</i>'}
 
 
 index:
-- {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. pp. 105-111. IEEE, 2021.'}
-- {name: '<b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
-- {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021.'}
-- {name: 'MPC Mok, CH Chan, WCS Chow, Y Jiao, <b>S Li</b>, P Luo, YK Li, M Ieong. "Chiplet-based System-on-Chip for Edge Artificial Intelligence." <i>2021 5th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)</i>. IEEE, 2021.'}
-- {name: 'Y Jiao, X Huo, Y Lei, <b>S Li</b>, YK Li. "Weight Compression-Friendly Binarized Neural Network." <i>2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2020.'}
-- {name: 'S Zhang, SMH Bamakan, Q Qu, <b>S Li</b>. (2018). Learning for personalized medicine: a comprehensive review from a deep learning perspective. <i>IEEE reviews in biomedical engineering</i>, 12, 194-208.'}
+- {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2021. DOI: 10.1109/GCAIoT53516.2021.9693045.'}
+- {name: '[CN Patent] <b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
+- {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021. DOI: 10.1109/IJCNN52387.2021.9533393'}
+- {name: 'MPC Mok, CH Chan, WCS Chow, Y Jiao, <b>S Li</b>, P Luo, YK Li, M Ieong. "Chiplet-based System-on-Chip for Edge Artificial Intelligence." <i>2021 5th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)</i>. IEEE, 2021. DOI: 10.1109/EDTM50988.2021.9421028'}
+- {name: 'Y Jiao, X Huo, Y Lei, <b>S Li</b>, YK Li. "Weight Compression-Friendly Binarized Neural Network." <i>2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2020. DOI: 10.1109/GCAIoT51063.2020.9345815'}
+- {name: 'S Zhang, SMH Bamakan, Q Qu, <b>S Li</b>. (2018). Learning for personalized medicine: a comprehensive review from a deep learning perspective. <i>IEEE reviews in biomedical engineering</i>. DOI: 10.1109/RBME.2018.2864254'}
