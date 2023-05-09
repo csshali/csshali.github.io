@@ -7,52 +7,6 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
-    <div class="col-md-10">
-      
-      <i style='font-size:24px' class='fas'>&#xf5dc;</i><p4 class="fw-bold"> Cascade Growth Prediction </p4>
-      <p> <b>Background:</b> A Twitter cascade is formed by a post being retweeted multiple times. The large cascades retweeted thousands or millions of times in a short period have high probabilities to contain mis and disinformation. So the project is to predict whether a post will continue to grow or go viral in the future. </p>
-      <p> <b>Method:</b> </p>
-      <p> - Feature engineering and creation: 1) Polarity of posts content, which are sentiment probabilities of enjoyment, anger, disgust, sadness, fear, and surprise. 2) Structural features such as how many posts were retweeted. 3) Temporal features such as the average elapsed time between the first half reshares, the last half reshares and the change in the time between reshares of the first k reshares for the prediction. </p>
-      <p> - Model construction and performance evaluation: Constructed random forest to predict Twitter cascades growth with an emphasis of feature engineering to generate content, temporal, root, reshare and structural features. </p>
-      <p> - Model deployment and scale-up: Implemented the whole pipeline with Python and BigQuery.  </p>
-      <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/cascade.png" alt="Cascades predict" width="150%" style="margin-left:100px">
-      </div>
-      <br /><br />
-
-      <i style='font-size:24px' class='fas'>&#xf5dc;</i><p4 class="fw-bold"> Graph Neural Networks </p4>
-      <br>
-      <p> - Adapted prompt tuning to GNNs by injecting continuous vectors with trainable parameters to the embedding space of graphs to close the optimization gap between pretext and downstream tasks. </p>
-      <p> - Developed a communication-efficient framework for federated graph learning by compressing graph architectures. </p>
-      <br /><br />
-
-      <i style='font-size:24px' class='fas'>&#xf5dc;</i><p4 class="fw-bold"> Edge AI & Efficient AI </p4>
-      <br>
-      <p> - Developed light-weight deep neural network (DNN) models for edge applications (e.g. keyword spotting, image classification) by quantization/ binarization to reduce DNNs’ memory and computation cost, and enabled their deployment on resource-constrain edge devices/ chiplets. </p>
-      <p> - Researched on DNN compression techniques (quantization, sparsification, knowledge distillation) to reduce memory, storage and footprint consumption for DNNs but remain their accuracy. </p>
-      <p> - Algo-hardware co-design: Designed hardware-aware training schemes to integrate hardware limitations (e.g. memory, computation, energy) and deficiency (e.g. noise) in end-to-end DNN training to preserve DNN model precision. </p>
-      <div class="col-md-6">
-      <img src="{{ site.github.url }}/assets/img/umec.png" alt="EdgeAI" width="150%" style="margin-left:100px">
-      </div>
-      <br /><br />
-
-
-      <i style='font-size:24px' class='fas'>&#xf5dc;</i><p4 class="fw-bold"> Anomal Detection on Time-series Data </p4>
-      <p> <b>Problem:</b> find possible market manipulation events from historical bitcoin market data (price & volume) </p>
-      <p> <b>Problem Conversion:</b> Detect suspicious points from time series market data by unsupervised Deep Learning techniques. </p>
-      <p> <b>Assumption:</b> Outlier data points that are not in line with usual market movement, e.g. unexpected spikes, drops, trend changes and level shifts. </p>
-      <p> <b>Solution:</b> </p>
-      <p> - Prediction-based ML: majorly we constructed LSTM and CNN to model the price and volume trend of bitcoin transactions, and then predict the next windows' values, if the actual values have great difference with the predicted values, we treated them as anomalies. The idea is that anomalies have biased patterns with normal market movements. LSTM and CNN are used to extract temporal and spatial dynamics of multi-channel time series.  </p>
-      <p> - Reconstruction-based ML: mainly by building variational auto-encoders to detect anomalies according to the reconstruction probability gap between normal and abnormal samples. The idea behind is that anomalies are incompressible and thus cannot be effectively reconstructed. </p>
-      <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/bitcoin.png" alt="Cascades predict" width="150%" style="margin-left:100px">
-      </div>
-      <br /><br />
-
-      <i style='font-size:24px' class='fas'>&#xf5dc;</i><p4 class="fw-bold"> Deep Reinforcement Learning for Resource Management and Optimization </p4>
-<br /><br />
-      </div>
-
 
   </div>
 </div>
