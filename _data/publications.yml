@@ -1,4 +1,5 @@
 featured:
+- {name: '<b>Sha Li</b>, Naren Ramakrishnan. "Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation." <i> preprint arXiv preprint arXiv:2502.13019</i>.'}
 - {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2021.'}
 - {name: '<b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
 - {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021.'}
@@ -8,6 +9,7 @@ featured:
 
 
 index:
+- {name: '<b>Sha Li</b>, Naren Ramakrishnan. "Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation." <i> preprint arXiv preprint arXiv:2502.13019</i>.'}
 - {name: 'Y Jiao, <b>S Li</b>, P Luo, X Huo, YK Li. "Unbalanced Encoding in Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)</i>. IEEE, 2021. DOI: 10.1109/GCAIoT53516.2021.9693045.'}
 - {name: '[CN Patent] <b>S Li</b>, King Hung Chiu and Dongpeng Wang. "A Quantized Convolutional Neural Network Optimization Method and System with Non-linear Weight Quantization and Sharing for Digital Circuit Implementation." <i>China Patent</i>, 2021.'}
 - {name: 'Y Jiao, <b>S Li</b>, X Huo, YK Li. "Synchronous Weight Quantization-Compression for Low-Bit Quantized Neural Network." <i>2021 International Joint Conference on Neural Networks (IJCNN)</i>. IEEE, 2021. DOI: 10.1109/IJCNN52387.2021.9533393'}
